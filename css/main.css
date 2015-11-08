@@ -1,0 +1,135 @@
+#gameboard{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title{
+    width: 600px;
+    height: 150px;
+    background-image: url(../images/title.png);
+    margin: auto;
+}
+#door1{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door1:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door1:active{
+    background-image: url(../images/dooropen.png);
+}
+
+
+#door2{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door2:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door2:active{
+    background-image: url(../images/dooropen.png);
+}
+
+
+#door3{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door3:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door3:active{
+    background-image: url(../images/dooropen.png);
+}
+
+
+#door4{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door4:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door4:active{
+    background-image: url(../images/dooropen.png);
+}
+
+#door5{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door5:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door5:active{
+    background-image: url(../images/door9open.png);
+}
+
+
+#door6{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door6:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door6:active{
+    background-image: url(../images/dooropen.png);
+}
+
+
+#door7{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door7:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door7:active{
+    background-image: url(../images/dooropen.png);
+}
+
+
+#door8{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door8:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door8:active{
+    background-image: url(../images/dooropen.png);
+}
+
+
+#door9{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/door4.png);
+    float: left;
+}
+#door9:hover{
+    background-image: url(../images/door4hover.png);
+}
+#door9:active{
+    background-image: url(../images/dooropen.png);
+}
